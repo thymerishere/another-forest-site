@@ -3,10 +3,10 @@
  import FallArt from "$lib/images/fall.png"
 </script>
 
-<main>
+<main class="animate-fade-in">
     <div id="header-div" class="h-[90vh] w-full text-center">
-        <p1 class="w-full text-[50px] lg:text-[100px] font-title text-white top-0 left-0 mt-5 absolute">ANOTHER FOREST</p1>
         <img src={HeaderImage} class="h-full w-full object-cover" alt="Another Forest">
+        <p1 class="w-full text-[50px] lg:text-[100px] font-title text-white top-0 left-0 mt-5 absolute">ANOTHER FOREST</p1>
     </div>
 
     <div id="nav-bar" class="font-nav text-[35px] w-full sticky top-0 bg-white/20 backdrop-blur-sm grid grid-cols-4 content-center place-items-center">
@@ -31,7 +31,7 @@
 
     <div class="grid grid-cols-1 place-items-center">
         <div class="w-3/5 h-[400px] mb-10">
-            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0YXSigMGqfDvBAtzqED2Zs?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+            <iframe title="spotify-embed" style="border-radius:12px" src="https://open.spotify.com/embed/artist/0YXSigMGqfDvBAtzqED2Zs?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
     </div>
 
