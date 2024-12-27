@@ -8,10 +8,10 @@
 
     <div id="header-div" class="h-[90vh] w-full">
         <div class="absolute top-[20vh] w-full grid grid-cols-1 place-items-center">
-            <img src={Logo} class="h-[100px] xl:h-[150px]" alt="Logo">
+            <img src={Logo} class="h-[100px] md:h-[150px]" alt="Logo">
         </div>
         <div class="absolute top-[10vh] md:top-[20vh] w-full grid grid-cols-1 place-items-center text-center">
-            <p1 class="absolute top-[30vh] text-[100px] xl:text-[150px] font-title text-white">ANOTHER FOREST</p1>
+            <p1 class="absolute top-[30vh] text-[70px] sm:text-[100px] md:text-[100px] xl:text-[150px] font-title text-white">ANOTHER FOREST</p1>
         </div>
     </div>
 </div>
