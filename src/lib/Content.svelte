@@ -1,6 +1,6 @@
-
 <script>
  import FallArt from "$lib/images/fall.png"
+ import BandPhoto from "$lib/images/band-orange.jpg"
 </script>
 
 <div id="div-content" class="relative bg-white">
@@ -35,6 +35,10 @@
     Nullam finibus posuere tellus, ut finibus diam. Nunc ac ex ut velit rhoncus lacinia. Nulla faucibus tellus sit amet sapien elementum scelerisque. Maecenas vel arcu eget velit pulvinar ornare. Praesent iaculis, diam porttitor rhoncus ullamcorper, massa diam pharetra leo, id ultrices purus nisl a massa. Pellentesque id nulla eu ex vulputate pretium et ac ligula. Etiam nec vestibulum nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris mauris ex, scelerisque at tincidunt iaculis, suscipit ut risus. Sed et nibh nec odio posuere vestibulum. Integer pellentesque pretium odio, vitae convallis leo scelerisque id. Curabitur sed nisl erat.
     Cras imperdiet nibh sit amet imperdiet sagittis. Pellentesque a vehicula est, tempor ullamcorper felis. Vestibulum ut nibh faucibus, pulvinar nulla ac, venenatis nulla. Donec lobortis neque ac suscipit facilisis. Quisque nec lectus vitae magna pretium rhoncus consequat a tortor. Nam fringilla, tellus eu pretium posuere, sem magna efficitur est, imperdiet ultrices sapien ligula non felis. Morbi eget bibendum odio. Phasellus dignissim finibus quam quis tempor. Integer eu maximus sapien. Sed placerat auctor ipsum, nec aliquam odio pellentesque sed. Aliquam malesuada arcu vitae luctus feugiat. Mauris nisi mauris, aliquet nec pharetra elementum, volutpat vitae felis. In sollicitudin massa ac tellus pulvinar feugiat. Sed efficitur purus risus, ultrices ullamcorper dolor euismod vel.
     </div> -->
+
+    <div class="w-full my-20 grid grid-cols-1 place-items-center content-center">
+       <img class="w-3/5 md:w-1/2 object-contain shadow-lg" src={BandPhoto} alt="Another Forest">
+    </div>
 
     <div id="div-links" class="bg-rose-900 text-white mt-10 grid grid-cols-4 content-center place-items-center text-center">
         <a class="w-full h-full hover:bg-rose-950 p-5" target="_blank" href="https://open.spotify.com/artist/0YXSigMGqfDvBAtzqED2Zs?si=BrwbqRsZQ6mnvVcc0Q-olg"><i class="fa-brands fa-spotify text-[50px]"></i></a>
