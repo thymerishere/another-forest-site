@@ -36,9 +36,10 @@
     Cras imperdiet nibh sit amet imperdiet sagittis. Pellentesque a vehicula est, tempor ullamcorper felis. Vestibulum ut nibh faucibus, pulvinar nulla ac, venenatis nulla. Donec lobortis neque ac suscipit facilisis. Quisque nec lectus vitae magna pretium rhoncus consequat a tortor. Nam fringilla, tellus eu pretium posuere, sem magna efficitur est, imperdiet ultrices sapien ligula non felis. Morbi eget bibendum odio. Phasellus dignissim finibus quam quis tempor. Integer eu maximus sapien. Sed placerat auctor ipsum, nec aliquam odio pellentesque sed. Aliquam malesuada arcu vitae luctus feugiat. Mauris nisi mauris, aliquet nec pharetra elementum, volutpat vitae felis. In sollicitudin massa ac tellus pulvinar feugiat. Sed efficitur purus risus, ultrices ullamcorper dolor euismod vel.
     </div> -->
 
-    <div id="div-links" class="bg-rose-900 text-white mt-10 grid grid-cols-3 content-center place-items-center text-center">
+    <div id="div-links" class="bg-rose-900 text-white mt-10 grid grid-cols-4 content-center place-items-center text-center">
         <a class="w-full h-full hover:bg-rose-950 p-5" target="_blank" href="https://open.spotify.com/artist/0YXSigMGqfDvBAtzqED2Zs?si=BrwbqRsZQ6mnvVcc0Q-olg"><i class="fa-brands fa-spotify text-[50px]"></i></a>
         <a class="w-full h-full hover:bg-rose-950 p-5" target="_blank" href="https://www.instagram.com/anotherforestband/"><i class="fa-brands fa-instagram text-[50px]"></i></a>
+        <a class="w-full h-full hover:bg-rose-950 p-5" target="_blank" href="https://www.facebook.com/profile.php?id=61564336377201"><i class="fa-brands fa-facebook text-[50px]"></i></a>
         <a class="w-full h-full hover:bg-rose-950 p-5" target="_blank" href="https://www.tiktok.com"><i class="fa-brands fa-tiktok text-[50px]"></i></a>
     </div>
 
