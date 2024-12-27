@@ -4,8 +4,8 @@
 </script>
 
 <div id="div-content" class="relative bg-white">
-    <div id="div-fall" class="z-100 grid grid-cols-1 md:grid-cols-2 mb-10">
-        <div class="p-24">
+    <div id="div-fall" class="py-32 gap-20 place-items-center grid grid-cols-1 md:grid-cols-2">
+        <div class="w-4/5 lg:w-2/3">
             <img src={FallArt} class="object-fit shadow-lg" alt="Another Forest">
         </div>
 
