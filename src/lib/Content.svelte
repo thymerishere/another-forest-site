@@ -19,7 +19,7 @@
 
     <div class="grid grid-cols-1 place-items-center">
         <div class="w-3/5 h-[400px] mb-10">
-            <iframe title="spotify-embed" style="border-radius:12px" src="https://open.spotify.com/embed/artist/0YXSigMGqfDvBAtzqED2Zs?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+            <iframe title="spotify-embed" style="border-radius:12px" src="https://open.spotify.com/embed/artist/0YXSigMGqfDvBAtzqED2Zs?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
     </div>
 
