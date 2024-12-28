@@ -2,5 +2,4 @@
     import "../app.pcss";
 </script>
 
-
 <slot />

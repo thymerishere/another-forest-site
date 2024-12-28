@@ -5,7 +5,11 @@
     import Footer from "$lib/Footer.svelte";
 </script>
 
+<svelte:head>
+</svelte:head>
+
 <main id="main" class="animate-fade-in w-screen">
+
     <Header />
     <Navbar />
     <Content />
