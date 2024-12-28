@@ -41,10 +41,10 @@
     </div>
 
     <div id="div-links" class="bg-rose-900 text-white mt-10 grid grid-cols-4 content-center place-items-center text-center">
-        <a class="w-full h-full hover:bg-rose-950 p-5" target="_blank" href="https://open.spotify.com/artist/0YXSigMGqfDvBAtzqED2Zs?si=BrwbqRsZQ6mnvVcc0Q-olg"><i class="fa-brands fa-spotify text-[50px]"></i></a>
-        <a class="w-full h-full hover:bg-rose-950 p-5" target="_blank" href="https://www.instagram.com/anotherforestband/"><i class="fa-brands fa-instagram text-[50px]"></i></a>
-        <a class="w-full h-full hover:bg-rose-950 p-5" target="_blank" href="https://www.facebook.com/profile.php?id=61564336377201"><i class="fa-brands fa-facebook text-[50px]"></i></a>
-        <a class="w-full h-full hover:bg-rose-950 p-5" target="_blank" href="https://www.tiktok.com"><i class="fa-brands fa-tiktok text-[50px]"></i></a>
+        <a class="w-full h-full transition-all duration-300 hover:bg-rose-950 p-5" target="_blank" href="https://open.spotify.com/artist/0YXSigMGqfDvBAtzqED2Zs?si=BrwbqRsZQ6mnvVcc0Q-olg"><i class="fa-brands fa-spotify text-[50px]"></i></a>
+        <a class="w-full h-full transition-all duration-300 hover:bg-rose-950 p-5" target="_blank" href="https://www.instagram.com/anotherforestband/"><i class="fa-brands fa-instagram text-[50px]"></i></a>
+        <a class="w-full h-full transition-all duration-300 hover:bg-rose-950 p-5" target="_blank" href="https://www.facebook.com/profile.php?id=61564336377201"><i class="fa-brands fa-facebook text-[50px]"></i></a>
+        <a class="w-full h-full transition-all duration-300 hover:bg-rose-950 p-5" target="_blank" href="https://www.tiktok.com"><i class="fa-brands fa-tiktok text-[50px]"></i></a>
     </div>
 
 </div>

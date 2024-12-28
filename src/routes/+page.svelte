@@ -5,7 +5,7 @@
     import Footer from "$lib/Footer.svelte";
 </script>
 
-<main id="main" class="animate-fade-in relative overflow-x-hidden">
+<main id="main" class="animate-fade-in w-screen">
     <Header />
     <Navbar />
     <Content />
